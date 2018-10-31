@@ -1,0 +1,129 @@
+{
+  "worldwide" : [
+  {
+    "rank": 1,
+    "country": "Finland 12",
+    "coffee_consumption": 12
+  },
+  {
+    "rank": 2,
+    "country": "Norway 9.9",
+    "coffee_consumption": 9.9
+  },
+  {
+    "rank": 3,
+    "country": "Iceland 9",
+    "coffee_consumption": 9
+  },
+  {
+    "rank": 4,
+    "country": "Denmark 8.7",
+    "coffee_consumption": 8.7
+  },
+  {
+    "rank": 5,
+    "country": "Netherlands 8.4",
+    "coffee_consumption": 8.4
+  },
+  {
+    "rank": 6,
+    "country": "Sweden 8.2",
+    "coffee_consumption": 8.2
+  },
+  {
+    "rank": 7,
+    "country": "Switzerland 7.9",
+    "coffee_consumption": 7.9
+  },
+  {
+    "rank": 8,
+    "country": "Belgium 6.8",
+    "coffee_consumption": 6.8
+  },
+  {
+    "rank": 9,
+    "country": "Luxemburg 6.5",
+    "coffee_consumption": 6.5
+  },
+  {
+    "rank": 10,
+    "country": "Canada 6.5",
+    "coffee_consumption": 6.5
+  },
+  {
+    "rank": 11,
+    "country": "Bosnia and Herzegovina 6.2",
+    "coffee_consumption": 6.2
+  },
+  {
+    "rank": 12,
+    "country": "Austria 6.1",
+    "coffee_consumption": 6.1
+  },
+  {
+    "rank": 13,
+    "country": "Italy 5.9",
+    "coffee_consumption": 5.9
+  },
+  {
+    "rank": 14,
+    "country": "Brazil 5.8",
+    "coffee_consumption": 5.8
+  },
+  {
+    "rank": 15,
+    "country": "Slovenia 5.8",
+    "coffee_consumption": 5.8
+  },
+  {
+    "rank": 16,
+    "country": "Germany 5.5",
+    "coffee_consumption": 5.5
+  },
+  {
+    "rank": 17,
+    "country": "Greece 5.4",
+    "coffee_consumption": 5.4
+  },
+  {
+    "rank": 18,
+    "country": "France 5.4",
+    "coffee_consumption": 5.4
+  },
+  {
+    "rank": 19,
+    "country": "Croatia 5.1",
+    "coffee_consumption": 5.1
+  },
+  {
+    "rank": 20,
+    "country": "Cyprus 4.9",
+    "coffee_consumption": 4.9
+  },
+  {
+    "rank": 21,
+    "country": "Lebanon 4.8",
+    "coffee_consumption": 4.8
+  },
+  {
+    "rank": 22,
+    "country": "Estonia 4.5",
+    "coffee_consumption": 4.5
+  },
+  {
+    "rank": 23,
+    "country": "Spain 4.5",
+    "coffee_consumption": 4.5
+  },
+  {
+    "rank": 24,
+    "country": "Portugal 4.3",
+    "coffee_consumption": 4.3
+  },
+  {
+    "rank": 25,
+    "country": "United States 4.2",
+    "coffee_consumption": 4.2
+  }
+]
+}
