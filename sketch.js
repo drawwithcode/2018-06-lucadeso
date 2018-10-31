@@ -5,6 +5,8 @@ function preload() {
     data = loadJSON('./assets/coffee_world.json');
 }
 
+// provare a vedere se funziona tutto su github
+
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
